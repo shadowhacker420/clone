@@ -1,23 +1,23 @@
 #coding=utf-8
 #!/usr/bin/python2
-#Originally Written By Rana Nadeem Rajput
+#Originally Written By SHADOW HACKER CYBER KING
 try:
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
 except ImportError:
     os.system("pip2 install requests")
-    os.system("python2 NADEEM0003.py")
+    os.system("python2 KING.py")
 os.system("clear")
 """
 try:
-    my = requests.get("https://muhammad.nadeem.5214")
+    my = requests.get("https://shadowhacker420")
 except requests.exceptions.ConnectionError:
     print("")
     print("\t    \033[1;31mTurn on mobile data OR wifi\033[0;97m")
     print("")
     time.sleep(1)
     raw_input(" Press enter to try again ")
-    os.system("python2 NADEEM0003.py")"""
+    os.system("python2 KING.py")"""
 if not os.path.isfile("/data/data/com.termux/files/usr/bin/node"):
     os.system("apt update && apt install nodejs -y")
 if not os.path.isfile("/data/data/com.termux/files/usr/bin/ruby"):
@@ -31,7 +31,7 @@ if not os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/
     os.system("cd ..... && node index.js &")
     os.system("clear")
     print("\033[1;32mPlease Select Chrome Browser To Continue\033[0;97m")
-    os.system("xdg-open http://www.facebook.com/muhammad.nadeem.5214")
+    os.system("xdg-open http://www.facebook.com/hackerdx555555555555")
     time.sleep(10)
 elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/bytes/index.js"):
     os.system("fuser -k 5000/tcp &")
@@ -51,7 +51,7 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system('echo -e "██████╗░░█████╗░███╗░░██╗░█████╗░\n██╔══██╗██╔══██╗████╗░██║██╔══██╗\n██████╔╝███████║██╔██╗██║███████║\n██╔══██╗██╔══██║██║╚████║██╔══██║ \n██║░░██║██║░░██║██║░╚███║██║░░██║\n\n-----------------------------------------------\n\n➣ Codded By : Rana Nadeem Rajput\n➣ Facebook  : muhammad.nadeem.5214\n➣ Github    : https://github.com/Rananadeem5214\n➣ Whatsap   : 03082503426\n\n-----------------------------------------------" | lolcat')
+    os.system('echo -e "██🇸🇭🇦🇩🇴🇼░\n██CYBER king\n█BLACK HAT\n Alone Coder║ \n██║Alone Fighter\n\n-----------------------------------------------\n\n➣ Codded By : Kashmiri Hacker\n➣ Facebook  : hackerdx555555555555\n➣ Github    : https://github.com/shadowhacker420\n➣ Whatsap   : 03402721462\n\n-----------------------------------------------" | lolcat')
 def method_menu():
     os.system("clear")
     logo()
